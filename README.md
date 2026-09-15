@@ -56,8 +56,5 @@ git push origin main
 | git commit | Guarda la version |
 | git push | Sube los cambios al remoto |
 
-<<<<<<< HEAD
+
 > Documentar es parte del trabajo, no un extra al final.
-=======
-> Documentar es parte del trabajo, no un extra al final.
->>>>>>> d5a105214b01de0f5d22151f5debe68b5479cef1
