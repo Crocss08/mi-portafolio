@@ -58,3 +58,5 @@ git push origin main
 
 
 > Documentar es parte del trabajo, no un extra al final.
+
+ Documentación detallada del proyecto: [Guía de VoluntAQP](docs/GUIA.md)
